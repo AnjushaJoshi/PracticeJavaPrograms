@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ReverseNumber_recursion 
+public class ReverseArray_recursion 
 {
 	public static void reverse(int arr[],int start,int end)
 	{
